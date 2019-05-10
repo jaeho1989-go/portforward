@@ -1,4 +1,4 @@
-module gitlab.nas.codemaru.com/golang/portforward.git
+module gitlab.nas.codemaru.com/golang/portforward
 
 go 1.12
 
