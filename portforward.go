@@ -1,4 +1,4 @@
-package portfoward
+package portforward
 
 import (
 	"golang.org/x/crypto/ssh"
