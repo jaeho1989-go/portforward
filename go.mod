@@ -1,4 +1,4 @@
-module github.com/jaeho1989-go/portfoward
+module github.com/jaeho1989-go/portforward
 
 go 1.12
 
